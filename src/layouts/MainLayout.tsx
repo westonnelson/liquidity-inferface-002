@@ -11,7 +11,7 @@ export function MainLayout({ children }: { children: ReactNode }) {
   return (
     <>
       <TopBarNotify
-        notifyText="Users can now stake GHO in the safety module 🎉"
+        notifyText="Users can now lock PHNX in the safety module to earn emissions 🎉"
         learnMoreLink="https://app.aave.com/staking"
         buttonText="Stake Now"
       />

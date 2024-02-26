@@ -813,7 +813,6 @@ msgid "Dark mode"
 msgstr "Dark mode"
 
 #: src/modules/dashboard/DashboardTopPanel.tsx
-#: src/ui-config/menu-items/index.tsx
 msgid "Dashboard"
 msgstr "Dashboard"
 
@@ -893,10 +892,6 @@ msgstr "Disabling this asset as collateral affects your borrowing power and Heal
 #: src/components/AddressBlockedModal.tsx
 msgid "Disconnect Wallet"
 msgstr "Disconnect Wallet"
-
-#: pages/500.page.tsx
-msgid "Discord channel"
-msgstr "Discord channel"
 
 #: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
 msgid "Discount"
@@ -1670,6 +1665,7 @@ msgid "Oracle price"
 msgstr "Oracle price"
 
 #: pages/reserve-overview.page.tsx
+#: src/ui-config/menu-items/index.tsx
 msgid "Overview"
 msgstr "Overview"
 
@@ -2992,6 +2988,10 @@ msgstr "Withdrawing {symbol}"
 #: src/components/transactions/TxActionsWrapper.tsx
 msgid "Wrong Network"
 msgstr "Wrong Network"
+
+#: pages/500.page.tsx
+msgid "X"
+msgstr "X"
 
 #: src/modules/governance/VoteBar.tsx
 msgid "YAE"

@@ -16,7 +16,7 @@ interface Navigation {
 export const navigation: Navigation[] = [
   {
     link: ROUTES.dashboard,
-    title: t`Dashboard`,
+    title: t`Overview`,
     dataCy: 'menuDashboard',
   },
   {

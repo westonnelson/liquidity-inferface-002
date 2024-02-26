@@ -23,8 +23,9 @@ export enum WalletType {
   READ_ONLY_MODE = 'read_only_mode',
 }
 
-const APP_NAME = 'Aave';
-const APP_LOGO_URL = 'https://aave.com/favicon.ico';
+const APP_NAME = 'Phoenix';
+const APP_LOGO_URL =
+  'https://nftstorage.link/ipfs/bafkreighkrrme6u3wrfv33smljl73nqlntk46xfnxx2gu72ikp7aphyyvi';
 
 const mockProvider = {
   request: Promise.resolve(null),

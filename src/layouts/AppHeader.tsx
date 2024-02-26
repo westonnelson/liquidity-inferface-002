@@ -223,8 +223,8 @@ export function AppHeader() {
                 size="small"
                 color="primary"
                 sx={{
-                  backgroundColor: '#B6509E',
-                  '&:hover, &.Mui-focusVisible': { backgroundColor: 'rgba(182, 80, 158, 0.7)' },
+                  backgroundColor: '#11EE31',
+                  '&:hover, &.Mui-focusVisible': { backgroundColor: '#11EE31' },
                 }}
               >
                 TESTNET
@@ -243,8 +243,8 @@ export function AppHeader() {
                 size="small"
                 color="primary"
                 sx={{
-                  backgroundColor: '#B6509E',
-                  '&:hover, &.Mui-focusVisible': { backgroundColor: 'rgba(182, 80, 158, 0.7)' },
+                  backgroundColor: '#ee3111',
+                  '&:hover, &.Mui-focusVisible': { backgroundColor: '#ee3111' },
                 }}
               >
                 FORK
